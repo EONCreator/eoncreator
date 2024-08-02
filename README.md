@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Leetcode stats
-![](https://leetcard.jacoblin.cool/EONCreator?ext=contest)
+<p><h3>Leetcode stats</h3></p>
+![](https://leetcard.jacoblin.cool/EONCreator?ext=contest&theme=nord)
