@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/user-attachments/assets/5261376c-b9c3-4ac6-b4da-a7f0632414e6)
+![image](https://github.com/user-attachments/assets/5261376c-b9c3-4ac6-b4da-a7f0632414e6 | width = 32)
 
 
 <h3>📈 Leetcode stats</h3>
