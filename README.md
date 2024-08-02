@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://leetcard.jacoblin.cool/EONCreator?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
