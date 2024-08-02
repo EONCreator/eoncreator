@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Leetcode stats</h3>
+<h3>![leetcode](https://github.com/user-attachments/assets/d35eabb2-7943-49fd-95de-ff8e8b634565) Leetcode stats</h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EONCreator?theme=nord)
