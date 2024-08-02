@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p><h3>Leetcode stats</h3></p>
-https://leetcard.jacoblin.cool/JacobLinCool?theme=nord
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
