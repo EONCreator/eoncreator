@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/user-attachments/assets/3f45d096-8ed3-4bdd-a57e-c3d51316293c" width="64">
-<img src="https://github.com/user-attachments/assets/c0d0f874-062a-4ea2-9f07-872bba7153eb" width="64">
-<img src="https://github.com/user-attachments/assets/416be57b-746b-45cc-a204-e8d9e7d48d2b" width="64">
 
 
 
