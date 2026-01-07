@@ -23,21 +23,6 @@ Hello! I'm a passionate backend developer with a strong focus on the .NET ecosys
 - **Message Brokers:** Kafka
 - **APIs:** REST, GraphQL, gRPC, SignalR
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EONCreator&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EONCreator&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=EONCreator&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EONCreator&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
 ## 📈 Leetcode stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EONCreator?theme=nord)
