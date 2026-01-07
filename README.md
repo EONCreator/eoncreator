@@ -1,7 +1,7 @@
 ## Backend developer
 
 ## 🚀 About Me
-Hello! I'm a passionate backend developer with a strong focus on the .NET ecosystem. I specialize in building scalable, high-performance, and reliable server-side applications using modern technologies and best practices.
+Hello! I'm a backend developer with a strong focus on the .NET ecosystem. I specialize in building scalable, high-performance, and reliable server-side applications using modern technologies and best practices.
 
 ## 🛠️ Tech Stack
 ### **Core Technologies**
