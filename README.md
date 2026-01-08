@@ -4,17 +4,17 @@
 Hello! I'm a backend developer with a strong focus on the .NET ecosystem. I specialize in building scalable, high-performance, and reliable server-side applications using modern technologies and best practices.
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/dotnet/1E40AF" width="42" height="42" alt=".NET" />
+  <img src="https://cdn.simpleicons.org/dotnet/444444" width="42" height="42" alt=".NET" />
   <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/postgresql/1E40AF" width="42" height="42" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/444444" width="42" height="42" alt="PostgreSQL" />
   <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/apachekafka/1E40AF" width="42" height="42" alt="Kafka" />
+  <img src="https://cdn.simpleicons.org/apachekafka/444444" width="42" height="42" alt="Kafka" />
   <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/docker/1E40AF" width="42" height="42" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/docker/444444" width="42" height="42" alt="Docker" />
   <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/kubernetes/1E40AF" width="42" height="42" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/kubernetes/444444" width="42" height="42" alt="Kubernetes" />
   <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/grafana/1E40AF" width="42" height="42" alt="Grafana" />
+  <img src="https://cdn.simpleicons.org/grafana/444444" width="42" height="42" alt="Grafana" />
 </p>
 
 ## 🛠️ Tech Stack
