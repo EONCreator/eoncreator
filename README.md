@@ -21,7 +21,7 @@ Hello! I'm a backend developer with a strong focus on the .NET ecosystem. I spec
 ### **Core Technologies**
 - **Languages:** C#, Go, SQL, TypeScript/JavaScript
 - **Frameworks:** .NET 6/7/8, ASP.NET Core, Entity Framework Core
-- **Architecture:** Monolit, Microservices, Clean Architecture, DDD, CQRS
+- **Architecture:** Monolit, Microservices, patterns: Clean Architecture, DDD, CQRS
 
 ### **Databases**
 - **Relational:** PostgreSQL, SQL Server
