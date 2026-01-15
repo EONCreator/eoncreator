@@ -11,31 +11,7 @@ Hello! I'm a backend developer with a strong focus on the .NET ecosystem. I spec
   <img src="https://cdn.simpleicons.org/apachekafka/444444" width="42" height="42" alt="Kafka" />
   <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
   <img src="https://cdn.simpleicons.org/docker/444444" width="42" height="42" alt="Docker" />
-  <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/kubernetes/444444" width="42" height="42" alt="Kubernetes" />
-  <img src="https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+" width="8" height="1" alt="" />
-  <img src="https://cdn.simpleicons.org/grafana/444444" width="42" height="42" alt="Grafana" />
 </p>
-
-## 🛠️ Tech Stack
-### **Core Technologies**
-- **Languages:** C#, Go, SQL, TypeScript/JavaScript
-- **Frameworks:** .NET 6/7/8, ASP.NET Core, Entity Framework Core
-- **Architecture:** Monolit, Microservices, patterns: Clean Architecture, DDD, CQRS
-
-### **Databases**
-- **Relational:** PostgreSQL, SQL Server
-- **NoSQL:** MongoDB, Redis
-
-### **Infrastructure & DevOps**
-- **Cloud:** AWS
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** GitHub Actions, GitLab CI
-- **Monitoring:** Grafana, Prometheus
-
-### **Messaging & Communication**
-- **Message Brokers:** Kafka
-- **APIs:** REST, GraphQL, gRPC, SignalR
 
 ## 📈 Leetcode stats
 
