@@ -15,7 +15,7 @@ Hello! I'm a backend developer with a strong focus on the .NET ecosystem. I spec
 
 ## 📈 Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/EONCreator?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/EONCreator?theme=light)
 
 
 ## 🔗 Connect with Me
